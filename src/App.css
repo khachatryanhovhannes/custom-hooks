@@ -1,0 +1,8 @@
+.app-container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
